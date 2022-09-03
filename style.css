@@ -1,0 +1,35 @@
+.HDR{
+  COLOR: GREEN;
+  BACKGROUND: WHITE;
+  TEXT-ALIGN: CENTER;
+  PADDING: 20PX;
+  BORDER-RADIUS: 30PX;
+}
+.D1{
+  BACKGROUND:background: rgb(17,158,242);
+background: radial-gradient(circle, rgba(17,158,242,1) 0%, rgba(51,110,145,1) 35%, rgba(13,162,103,1) 100%);
+  PADDING: 10PX;
+  BORDER-RADIUS: 30PX;
+ 
+}
+.GY{
+  TEXT-ALIGN: CENTER;
+  COLOR: WHITE;
+  FONT-WEIGHT: 600;
+}
+
+.IMG{
+  WIDTH: 300PX;
+  HIEGHT: 200PX;
+  BORDER-RADIUS: 100%;
+}
+.SKILLDIV{
+ 
+  text-align: center;
+ 
+}
+.SKILLDIV li {
+  display:inline-block;
+  text-align:left;
+  
+}
