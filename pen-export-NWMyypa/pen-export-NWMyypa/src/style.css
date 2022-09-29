@@ -1,0 +1,20 @@
+.mb{
+  color: black;
+  background-color: /* Created with https://www.css-gradient.com */
+background: rgba(255, 255, 255, 1.0);
+background: -webkit-radial-gradient(bottom, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));
+background: -moz-radial-gradient(bottom, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));
+background: radial-gradient(to top, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));;
+  padding: 20px;
+  text-align: center;
+}
+.body{
+  background-color:/* Created with https://www.css-gradient.com */
+background: rgba(255, 255, 255, 1.0);
+background: -webkit-radial-gradient(bottom, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));
+background: -moz-radial-gradient(bottom, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));
+background: radial-gradient(to top, rgba(255, 255, 255, 1.0), rgba(161, 161, 161, 1.0));;
+}
+.r{
+  backgroung-color: 
+}
